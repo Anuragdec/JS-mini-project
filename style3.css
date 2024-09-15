@@ -1,0 +1,56 @@
+a {
+
+
+    border: 2px solid rgb(22, 21, 22);
+    border-radius: 5px;
+    margin: 15%;
+    padding: 3%;
+    text-align: center;
+    text-decoration: none;
+
+
+
+}
+
+a:hover {
+
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(170, 17, 124);
+
+    border-radius: 5px;
+    margin: 15%;
+    padding: 3%;
+    text-align: center;
+    text-decoration: none;
+
+
+}
+
+#banner {
+    height: 10px;
+    width: 30%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 45%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 140%;
+    margin-left: 45%;
+
+    
+
+}
+
+#clock {
+    height: 20px;
+    width: 30%;
+    text-align: center;
+    padding: 30px;
+    margin-top: 10%;
+   font-size: 0.8cm;
+    margin-left: 39%;
+    border: 2px solid rgb(37, 2, 2);
+    background: orange;
+
+
+}
